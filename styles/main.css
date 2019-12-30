@@ -6,7 +6,7 @@
   border: 15px inset #d9f;
   position: relative;
   margin: auto; }
-  .clock__minutehand {
+  .clock__minute-hand {
     width: 8px;
     height: 230px;
     background-color: #f9a;
@@ -17,7 +17,7 @@
     border-radius: 10px;
     box-shadow: 4px 2px 4px 2px #f9a;
     position: absolute; }
-  .clock__secondhand {
+  .clock__second-hand {
     width: 3px;
     height: 200px;
     background-color: #ffe6ea;
@@ -28,7 +28,7 @@
             animation: move 60s infinite linear;
     box-shadow: 2px 1px 2px 1px #ffb3f2;
     position: absolute; }
-  .clock__centerpoint {
+  .clock__center-point {
     width: 30px;
     height: 30px;
     position: absolute;
